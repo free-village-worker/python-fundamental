@@ -1,4 +1,4 @@
 Ketua: Hendrawan
 Wakil: Fawwaz
 Anggota: Rayyan
-Helper: Yono
+Helper: Yono, Dory
